@@ -366,6 +366,14 @@
 #define MAP_clinton_highway_tunnel1	( 541 )
 
 //Maps ElkFals
+
+#define MAP_vbbox_forest1		    ( 603 )
+#define MAP_vbbox_forest2		    ( 606 )
+#define MAP_vbbox_swamp2		    ( 610 )
+#define MAP_edbox2_2    		    ( 613 )
+#define MAP_vbbox_gasstation	    ( 616 )
+#define MAP_vbbox_forestroad	    ( 618 )
+
 #define MAP_vbbox_town			    ( 600 )
 #define MAP_vbbox_town_dn			( 601 )
 

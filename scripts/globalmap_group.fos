@@ -3014,6 +3014,12 @@ int GetMapLevelByPid( uint pid )
 		case( MAP_clinton5_4_dn ):
 		case( MAP_clinton_highway_dn ):
 		case( MAP_clinton_highway_lab1 ):
+        case( 604 ):
+        case( 607 ):
+        case( 611 ):
+        case( 614 ):
+        case( 617 ):
+        case( 619 ):        
 			level = -1;
 			break;
 		case( MAP_clinton_center_dn2 ):

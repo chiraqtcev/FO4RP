@@ -1156,6 +1156,13 @@
 {4016}{}{gntlwin1:3, gntlwind:3, gustwin1:3, gustwind:3, ore:2, ore1:2, pebble:2, pebble1:2, seagull:5, seagull1:5, seawind:5, seawind1:5, waves:15, waves1:15, pebble:25, pebble1:15, ore:10, ore1:10}
 {4018}{}{АД}
 
+
+# Area 334, Map 454
+{4550}{}{enc_road_nwe1}
+{4555}{}{07desert.ogg}
+{4556}{}{water:10, water1:10, pebble:25, pebble1:15, ore:10, ore1:10}
+{4558}{}{Развилка}
+
 ##### TNF_MAPS #####
 
 # Area 357, Map 491
@@ -1341,6 +1348,42 @@
 {6015}{}{Crimson_soil.ogg}
 {6016}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
 {6018}{}{Водопад Елкфолз}
+
+# Area 401, Map 603
+{6040}{}{vbbox_forest1}
+{6045}{}{05raider.mp3}
+{6046}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
+{6048}{}{Лес}
+
+# Area 402, Map 606
+{6070}{}{vbbox_forest2}
+{6075}{}{55NNM_wind_of_war.ogg}
+{6076}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
+{6078}{}{Лес}
+
+# Area 403, Map 610
+{6110}{}{vbbox_swamp2}
+{6115}{}{29mark-morgan-curst.ogg}
+{6116}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
+{6118}{}{Болото}
+
+# Area 404, Map 613
+{6140}{}{edbox2_2}
+{6145}{}{30 - Clockwork.ogg}
+{6146}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
+{6148}{}{Цистерна}
+
+# Area 405, Map 616
+{6170}{}{vbbox_gasstation}
+{6175}{}{27Lost_Knowledge.ogg}
+{6176}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
+{6178}{}{Заправка}
+
+# Area 406, Map 618
+{6190}{}{vbbox_forestroad}
+{6195}{}{27Lost_Knowledge.ogg}
+{6196}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
+{6198}{}{Лесная дорога}
 
 ##### VAULT66_SESSION #####
 
